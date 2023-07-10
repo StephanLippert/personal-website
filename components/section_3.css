@@ -1,0 +1,68 @@
+.section_3 {
+  width: auto;
+}
+.section_3--picBook {
+  width: 50%;
+  border: 20px;
+  padding: 10px;
+  background-color: #d6570efd;
+  border-radius: 25%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.section_3--leaf {
+  font-size: 48px;
+  background-color: rgba(240, 248, 255, 0);
+  display: flex;
+  justify-content: center;
+  position: sticky;
+  top: 30px;
+  z-index: 20;
+}
+.section_3--text {
+  font-size: 23px;
+}
+.section_3--ul {
+  width: auto;
+}
+.section_3__ul--li {
+  width: auto;
+}
+.section_3__ul__li--picHandheld {
+  width: 45%;
+  display: flex;
+  align-items: center;
+  border: 20;
+  padding: 10px;
+  background-color: #d6570efd;
+  border-radius: 25%;
+  right: 0;
+}
+.section_3__ul__li--picBugCity {
+  width: 45%;
+  display: flex;
+  border: 20;
+  padding: 10px;
+  background-color: #d6570efd;
+  border-radius: 25%;
+  right: 30px;
+}
+.section_3__ul__li--picBroda2 {
+  width: 45%;
+  display: flex;
+  border: 20;
+  padding: 10px;
+  background-color: #d6570efd;
+  border-radius: 25%;
+}
+.section_3--sun {
+  font-size: 48px;
+  background-color: rgba(240, 248, 255, 0);
+  display: flex;
+  justify-content: flex-end;
+  position: sticky;
+  top: 30px;
+  z-index: 20;
+}

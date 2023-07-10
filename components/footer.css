@@ -1,0 +1,20 @@
+.footer__link--aboutMe {
+  width: 100%;
+  padding: 10px;
+  display: flex;
+  position: fixed;
+  justify-content: space-evenly;
+  bottom: 0;
+  right: 0;
+  z-index: 30;
+}
+.footer--topBotton {
+  background: #05118f;
+  padding: 10px;
+  border-radius: 10px;
+  color: #fff;
+  text-decoration: none;
+  bottom: 0;
+  right: 0;
+  z-index: 30;
+}

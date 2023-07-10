@@ -1,0 +1,28 @@
+.section_1 {
+  width: auto;
+}
+.section_1--h1 {
+  width: 100%;
+  top: 90px;
+  font-size: 30px;
+  font-style: italic;
+  padding-top: 50px;
+  background-color: rgba(238, 242, 245, 0);
+  display: flex;
+  justify-content: center;
+}
+.section_1__h1--Startbild {
+  width: 100%;
+  display: flex;
+  position: relative;
+  justify-content: center;
+}
+.section_1--blow {
+  font-size: 48px;
+  background-color: rgba(240, 248, 255, 0);
+  display: flex;
+  justify-content: flex-start;
+  position: sticky;
+  top: 40px;
+  z-index: 20;
+}

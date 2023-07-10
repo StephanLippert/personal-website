@@ -1,0 +1,31 @@
+.section_4 {
+  width: auto;
+}
+.section_4--text {
+  width: auto;
+}
+.section_4--ol {
+  width: auto;
+}
+.section_4__ol--li {
+  font-size: larger;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 10px;
+  padding-right: 10px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.section_4__ol__li--Beginner {
+  width: auto;
+}
+.section_4__ol__li--maskedWolf {
+  width: auto;
+}
+.section_4__ol__li--Assaut {
+  width: auto;
+}
+.section_4__ol__li--TechN9ne_Eminem {
+  width: auto;
+}
